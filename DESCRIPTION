@@ -1,0 +1,13 @@
+Package: pkgdown.tutorial
+Title: tutorial pkgdown
+Version: 0.0.1
+Authors@R: 
+    person("Jinhwan", "Kim", , "jinhwan@zarathu.com", role = c("aut", "cre"))
+Description: contains base ttest function 
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Suggests: 
+    rmarkdown
+URL: https://github.com/jhk0530/pkgdown.tutorial

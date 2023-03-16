@@ -1,0 +1,11 @@
+pandoc: 2.19.2
+pkgdown: 2.0.7
+pkgdown_sha: ~
+articles:
+  a1: a1.html
+  a2: a2.html
+  b1: b1.html
+  pkgdown-tutorial: pkgdown-tutorial.html
+  using-ttest: using-ttest.html
+last_built: 2023-03-16T05:28Z
+

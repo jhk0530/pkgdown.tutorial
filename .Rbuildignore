@@ -1,0 +1,7 @@
+^pkgdown\.tutorial\.Rproj$
+^\.Rproj\.user$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^vignettes/articles$
+^LICENSE\.md$

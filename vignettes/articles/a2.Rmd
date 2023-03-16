@@ -1,0 +1,14 @@
+---
+title: "A2 article"
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(pkgdown.tutorial)
+```
